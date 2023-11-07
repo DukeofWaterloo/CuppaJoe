@@ -1,7 +1,7 @@
 # CuppaJoe
 **A Custom-made Coaxial Capacitor optimized to perfectly measure a Cup of Coffee!**
 
-A side project that all started when the craving of a Coffee came around and three Electrical Engineering students just knew what had to be done to measure the UTMOST PERFECT cup of Coffee. It was at that moment that CuppaJoe was born.
+A project that all started when the craving of a Coffee came around and three Electrical Engineering students just knew what had to be done to measure the UTMOST PERFECT cup of Coffee. It was at that moment that CuppaJoe was born.
 
 ![Slide1](https://user-images.githubusercontent.com/59591006/196505301-45847995-e400-4ca9-bc7b-5d46771c482d.jpg)
 ![Slide2](https://user-images.githubusercontent.com/59591006/196505305-faedea2d-67c7-49d6-ade0-7583a1475b50.jpg)
